@@ -1,0 +1,10 @@
+
+New Snapshot of mainDirectory/subDir1
+
+File Name                 | Type       | File ID  | File Size  | Last Modified     
+---------------------------------------------------------------------------------------
+test.txt                  | File       | 686255   | 3          | Tue Apr 30 18:36:30 2024
+snapshot_mainDirectory_subDir1.txt | File       | 694091   | 669        | Fri May 10 03:37:37 2024
+subDir3                   | Directory  | 691337   | 4096       | Fri May  3 16:48:55 2024
+test2.txt                 | File       | 692645   | 0          | Fri May  3 16:48:55 2024
+---------------------------------------------------------------------------------------

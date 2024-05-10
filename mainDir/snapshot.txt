@@ -1,7 +1,0 @@
-File Name                      | Type       | File ID      | File Size    | Last Modified            
------------------------------------------------------------------------------------------------------------------
-subDir1                        | Directory  | 685833       | 4096         | Tue Apr 30 18:36:26 2024
-test.txt                       | File       | 686255       | 3            | Tue Apr 30 18:36:30 2024
-rootDirFile.txt                | File       | 685895       | 0            | Fri Apr 26 17:52:30 2024
-snapshot.txt                   | File       | 685859       | 0            | Fri May  3 14:21:42 2024
-subDir2                        | Directory  | 685894       | 4096         | Fri Apr 26 17:51:48 2024

@@ -4,6 +4,7 @@
 #define FILE_NAME_SIZE 100
 #define PATH_SIZE 1000
 #define ARR_SIZE 255
+#define BIN_FILE_NAME "data.bin"
 
 
 typedef struct File
@@ -18,6 +19,10 @@ typedef struct File
 
 void printErrorBanner(void);
 void printSuccesBanner(void);                            
-int init(char const *, int *, MetaDataFile_T*);
-int status(int, MetaDataFile_T*);
-void printSnapshootIntoFile(MetaDataFile_T *, char*);
+int init(char const *,int *,MetaDataFile_T*);
+void status(MetaDataFile_T *, int);
+void printSnapshootIntoFile(MetaDataFile_T *,MetaDataFile_T *, char*,int,char*);
+void addDirectoriesToBin(int,char**);
+void writeMetaDataIntoBin(char**,int);
+void startChildProcess(char *, char *);
+int checkDirectory(const char*);

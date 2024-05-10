@@ -1,0 +1,16 @@
+
+New Snapshot of mainDirectory
+
+File Name                 | Type       | File ID  | File Size  | Last Modified     
+---------------------------------------------------------------------------------------
+subDir1                   | Directory  | 685833   | 4096       | Thu May  9 23:59:04 2024
+test.txt                  | File       | 686255   | 3          | Tue Apr 30 18:36:30 2024
+snapshot_mainDirectory_subDir1.txt | File       | 694091   | 669        | Fri May 10 03:37:37 2024
+subDir3                   | Directory  | 691337   | 4096       | Fri May  3 16:48:55 2024
+test2.txt                 | File       | 692645   | 0          | Fri May  3 16:48:55 2024
+snapshot_mainDirectory.txt | File       | 693126   | 1211       | Fri May 10 03:37:37 2024
+rootDirFile.txt           | File       | 685895   | 0          | Fri Apr 26 17:52:30 2024
+subDir2                   | Directory  | 685894   | 4096       | Fri May 10 01:33:45 2024
+snapshot_mainDirectory_subDir2.txt | File       | 693265   | 489        | Fri May 10 03:37:37 2024
+test.txt                  | File       | 693430   | 0          | Fri May 10 01:33:45 2024
+---------------------------------------------------------------------------------------

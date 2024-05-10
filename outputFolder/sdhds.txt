@@ -1,0 +1,47 @@
+mainDirectory|11
+Replacement line
+Replacement line
+Replacement line
+Replacement line
+Replacement line
+Replacement line
+Replacement line
+Replacement line
+Replacement line
+Replacement line
+t|692645|0|1714744135|
+1|snapshot_mainDirectory.txt|693126|1301|1715296084|
+1|rootDirFile.txt|685895|0|1714143150|
+0|subDir2|685894|4096|1715294025|
+1|snapshot_mainDirectory_subDir2.txt|693265|489|1715296084|
+1|test.txt|693430|0|1715294025|
+1|testRandom.txt|686521|0|1715295432|
+mainDirectory/subDir1|4
+1|test.txt|686255|3|1714491390|
+1|snapshot_mainDirectory_subDir1.txt|694091|669|1715296084|
+0|subDir3|691337|4096|1714744135|
+1|test2.txt|692645|0|1714744135|
+mainDirectory/subDir2|2
+1|snapshot_mainDirectory_subDir2.txt|693265|489|1715296084|
+1|test.txt|693430|0|1715294025|
+mainDirectory|12
+0|subDir1|685833|4096|1715288344|
+1|test.txt|686255|3|1714491390|
+1|snapshot_mainDirectory_subDir1.txt|694091|669|1715296134|
+0|subDir3|691337|4096|1714744135|
+1|test2.txt|692645|0|1714744135|
+1|snapshot_mainDirectory.txt|693126|1301|1715296134|
+1|rootDirFile.txt|685895|0|1714143150|
+0|subDir2|685894|4096|1715294025|
+1|snapshot_mainDirectory_subDir2.txt|693265|489|1715296134|
+1|test.txt|693430|0|1715294025|
+1|testRandom.txt|686521|0|1715295432|
+1|testshdgsh.txt|693463|0|1715296154|
+mainDirectory/subDir1|4
+1|test.txt|686255|3|1714491390|
+1|snapshot_mainDirectory_subDir1.txt|694091|669|1715296134|
+0|subDir3|691337|4096|1714744135|
+1|test2.txt|692645|0|1714744135|
+mainDirectory/subDir2|2
+1|snapshot_mainDirectory_subDir2.txt|693265|489|1715296134|
+1|test.txt|693430|0|1715294025|
